@@ -1,1 +1,1 @@
-# data_mining_home_2
+本次作业使用的数据集为wine review，使用Apriori提取频繁模式，计算Lift和全自信度评价
